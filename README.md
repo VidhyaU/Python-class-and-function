@@ -1,3 +1,3 @@
 # Python-class-and-function
 
-Python Function Class
+Python Function Class.
